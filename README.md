@@ -28,8 +28,9 @@ git clone https://github.com/joaovitornunes09/front_loja_coreplan.git
 
 Para instalar esta aplicação basta vc rodar o comando abaixo:
 
-
+```sh
 docker-compose up -d --build
+```
 
 Se tudo ocorrrer como o planejado espere alguns segundos a aplicação ja estará rodando
 
