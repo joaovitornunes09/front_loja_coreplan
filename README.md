@@ -1,4 +1,4 @@
-#### Front TaskRiser - Admnistrador de Tarefas
+#### Front LojaCorePlan
 
 ##### Sobre tecnologias utilizadas nesse projeto:
 
